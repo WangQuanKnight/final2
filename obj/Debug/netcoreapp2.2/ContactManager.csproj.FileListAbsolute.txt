@@ -1,0 +1,12 @@
+C:\Users\WQ\source\repos\Docs\aspnetcore\security\authorization\secure-data\samples\final2\obj\Debug\netcoreapp2.2\ContactManager.csprojAssemblyReference.cache
+C:\Users\WQ\source\repos\Docs\aspnetcore\security\authorization\secure-data\samples\final2\obj\Debug\netcoreapp2.2\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\WQ\source\repos\Docs\aspnetcore\security\authorization\secure-data\samples\final2\obj\Debug\netcoreapp2.2\UserSecretsAssemblyInfo.cs
+C:\Users\WQ\source\repos\Docs\aspnetcore\security\authorization\secure-data\samples\final2\obj\Debug\netcoreapp2.2\ContactManager.AssemblyInfoInputs.cache
+C:\Users\WQ\source\repos\Docs\aspnetcore\security\authorization\secure-data\samples\final2\obj\Debug\netcoreapp2.2\ContactManager.AssemblyInfo.cs
+C:\Users\WQ\source\repos\Docs\aspnetcore\security\authorization\secure-data\samples\final2\bin\Debug\netcoreapp2.2\ContactManager.deps.json
+C:\Users\WQ\source\repos\Docs\aspnetcore\security\authorization\secure-data\samples\final2\bin\Debug\netcoreapp2.2\ContactManager.runtimeconfig.json
+C:\Users\WQ\source\repos\Docs\aspnetcore\security\authorization\secure-data\samples\final2\bin\Debug\netcoreapp2.2\ContactManager.runtimeconfig.dev.json
+C:\Users\WQ\source\repos\Docs\aspnetcore\security\authorization\secure-data\samples\final2\bin\Debug\netcoreapp2.2\ContactManager.dll
+C:\Users\WQ\source\repos\Docs\aspnetcore\security\authorization\secure-data\samples\final2\bin\Debug\netcoreapp2.2\ContactManager.pdb
+C:\Users\WQ\source\repos\Docs\aspnetcore\security\authorization\secure-data\samples\final2\obj\Debug\netcoreapp2.2\ContactManager.dll
+C:\Users\WQ\source\repos\Docs\aspnetcore\security\authorization\secure-data\samples\final2\obj\Debug\netcoreapp2.2\ContactManager.pdb
